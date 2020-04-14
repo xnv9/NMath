@@ -24,3 +24,7 @@ def prime_check(x):
         return True
     except Exception:
         return "Error"
+
+    
+ #最大公约数
+def 
