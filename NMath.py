@@ -27,4 +27,6 @@ def prime_check(x):
 
     
  #最大公约数
-def 
+def gcd(x,y):
+    if x>y:
+        while 
